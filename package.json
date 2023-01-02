@@ -1,0 +1,15 @@
+{
+  "name": "clientverifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Sandro642",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
